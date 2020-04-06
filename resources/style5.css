@@ -1,0 +1,32 @@
+
+        .form
+        {
+            margin:auto;
+        }
+        table
+        {
+            border:1px solid black;
+            width: 60%;
+            margin-left: 20%;
+        }
+
+        td
+        {
+            border:1px solid black;
+        }
+        .color1
+        {
+            background-color: red;
+        }
+        .color2
+        {
+            background-color: yellow;
+        }
+        .color3
+        {
+            background-color: green;
+        }
+        .color4
+        {
+            background-color: blue;
+        }
